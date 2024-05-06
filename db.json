@@ -1,0 +1,74 @@
+{
+  "clientes": [
+    {
+      "id" : "1e34a645-bc82-4def-b703-a4c69ea5c670",
+      "nome" : "Carlos Amaral",
+      "cpf" : "312.321.651-12",
+      "telefone" : "(11) 932 123 664",
+      "email" : "carlos.amaral@gmail.com"
+    },
+    {
+      "id" : "2e45b756-ab83-4cde-c804-a5d78fb5d781",
+      "nome" : "Mariana Silva",
+      "cpf" : "123.456.789-00",
+      "telefone" : "(11) 987 654 321",
+      "email" : "mariana.silva@example.com"
+    },
+    {
+      "id" : "3e67c867-cd94-3abc-d928-b6e89ac6e593",
+      "nome" : "Pedro Oliveira",
+      "cpf" : "987.654.321-99",
+      "telefone" : "(11) 123 456 789",
+      "email" : "pedro.oliveira@example.com"
+    },
+    {
+      "id" : "4e78d978-de05-4bcd-e372-c7f90bd7f494",
+      "nome" : "Ana Santos",
+      "cpf" : "234.567.890-12",
+      "telefone" : "(11) 456 789 123",
+      "email" : "ana.santos@example.com"
+    },
+    {
+      "id" : "5e89e089-ef16-5cde-f361-d8a01ce8a295",
+      "nome" : "João Souza",
+      "cpf" : "876.543.210-34",
+      "telefone" : "(11) 789 123 456",
+      "email" : "joao.souza@example.com"
+    },
+    {
+      "id" : "6e90f190-f027-6def-g482-e9b12df9b196",
+      "nome" : "Maria Oliveira",
+      "cpf" : "543.210.987-56",
+      "telefone" : "(11) 654 321 987",
+      "email" : "maria.oliveira@example.com"
+    },
+    {
+      "id" : "7e01g201-gh38-7abc-h604-f0c23ef0c307",
+      "nome" : "Paulo Silva",
+      "cpf" : "321.098.765-78",
+      "telefone" : "(11) 321 987 654",
+      "email" : "paulo.silva@example.com"
+    },
+    {
+      "id" : "8e12h312-hi49-8cde-i716-g1d34fg1d418",
+      "nome" : "Juliana Santos",
+      "cpf" : "890.123.456-90",
+      "telefone" : "(11) 987 654 321",
+      "email" : "juliana.santos@example.com"
+    },
+    {
+      "id" : "9e23i423-jk50-9abc-j828-h2e45gh2e529",
+      "nome" : "Lucas Almeida",
+      "cpf" : "567.890.123-01",
+      "telefone" : "(11) 654 321 987",
+      "email" : "lucas.almeida@example.com"
+    },
+    {
+      "id" : "0e34j534-kl61-0def-k928-i3f56ji3f630",
+      "nome" : "Camila Oliveira",
+      "cpf" : "098.765.432-23",
+      "telefone" : "(11) 789 123 456",
+      "email" : "camila.oliveira@example.com"
+    }
+  ]
+}
